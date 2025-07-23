@@ -72,7 +72,7 @@ If you use this pipeline, please cite:
 - [Additional tools citations to be added]
 
 ## Author
-[Your Name/Organization]
+Christiaan Viljoen
 
 ## License
 MIT License
